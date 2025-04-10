@@ -6,7 +6,7 @@ This is a simple console-based Quiz Application written in C++. It allows users 
 ## How to Compile
 1. Open a terminal and navigate to the project directory:
    ```
-   cd /Users/mansipatil/Documents/Projects/Quiz_app
+   cd /path to Quiz_app
    ```
 2. Run the following command to compile the program:
    ```
